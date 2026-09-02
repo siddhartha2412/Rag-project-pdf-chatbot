@@ -3,3 +3,4 @@ google-genai
 pymupdf
 sentence-transformers
 streamlit
+torchvision
