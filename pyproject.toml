@@ -9,4 +9,5 @@ dependencies = [
     "pymupdf>=1.28.2",
     "sentence-transformers>=6.0.0",
     "streamlit>=1.62.0",
+    "torchvision>=0.29.0",
 ]
